@@ -1,5 +1,5 @@
 #Spring Sample Project Repository
-1. AOP + Redis
+# AOP + Redis
 
 This sample project show how to integrate Redis, AOP setting.
 
@@ -16,7 +16,7 @@ http://www.tutorialspoint.com/redis/redis_sorted_sets.htm
 http://projects.spring.io/spring-data-redis/
 
 
-2. Hello Redis 
+#Hello Redis 
 
 This is the sample project for redis usage with Spring. 
 
@@ -28,4 +28,4 @@ This is the sample project for redis usage with Spring.
  http://docs.spring.io/spring/docs/current/spring-framework-reference/html/cache.html
  
 
-3. Spring Session + Redis
+#Spring Session + Redis
