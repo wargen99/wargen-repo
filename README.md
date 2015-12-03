@@ -21,11 +21,15 @@ http://projects.spring.io/spring-data-redis/
 This is the sample project for redis usage with Spring. 
 
  1) Basic CRUD process with Spring data RedisTemplate.
+ 
  2) Integrated with Spring cache annotation.
  
  You can get more detail reference document from these site.
+ 
  http://redis.io/topics/data-types
+ 
  http://docs.spring.io/spring/docs/current/spring-framework-reference/html/cache.html
+ 
  
 
 #Spring Session + Redis
